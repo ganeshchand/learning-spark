@@ -1,4 +1,4 @@
-package anatomy.rdd
+package com.gc.learning.spark.rdd.anatomy
 
 import org.apache.spark.SparkContext
 

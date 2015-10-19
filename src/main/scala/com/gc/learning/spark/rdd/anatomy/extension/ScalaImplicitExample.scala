@@ -1,4 +1,4 @@
-package anatomy.rdd.extension
+package com.gc.learning.spark.rdd.anatomy.extension
 
 /**
  * Created by ganeshchand on 10/18/15.
