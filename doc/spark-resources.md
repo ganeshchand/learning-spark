@@ -23,8 +23,14 @@ workshops: databricks.com/spark-training
 
 ##Databricks Resources
 
-*   [Spark Knowledge base](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/)
+*   [Knowledge base](databricks.gitbooks.io/databricks-spark-knowledge-base/)
 *   [Spark-reference-applications](https://databricks.gitbooks.io/databricks-spark-reference-applications/content/)
+*   [Datbricks Spark CSV Parser](https://github.com/databricks/spark-csv)
+*   [Spark Training](https://github.com/databricks/spark-training)
+*   [scala-style-guide](https://github.com/databricks/scala-style-guide)
+*   [Spark-Redshift Integration](https://github.com/databricks/spark-redshift)
+*   [source code for Learning Spark book](https://github.com/databricks/learning-spark)
+
 
 ##Books
 
@@ -36,15 +42,25 @@ workshops: databricks.com/spark-training
 
 *   [Prof. Zhen He's Spark Tutorials](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html#mapPartitions)
 
+*   [Spark Code Mentors](https://www.codementor.io/spark)
+
 ##Blogs
 
 *   [How To Translate from MapReduce to Apache Spark](http://blog.cloudera.com/blog/2014/09/how-to-translate-from-mapreduce-to-apache-spark/)
 
- 
+
+
+##Talks and Papers
+
+ *  [Dean Wampler's Talk and papers on Spark and Scala](http://deanwampler.github.io/polyglotprogramming/papers/)
+ *  [Madhukar's Blog](http://blog.madhukaraphatak.com/)
+
 ##Scala 
  
  *  [Scala Symbols](http://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
  *  [Scala Tutorials](http://www.tutorialspoint.com/scala/scala_arrays.htm)
+
+##Maven Coordinates: http://mvnrepository.com/artifact/org.apache.spark
  
 
 
