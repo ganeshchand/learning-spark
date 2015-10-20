@@ -23,7 +23,8 @@ workshops: databricks.com/spark-training
 
 ##Databricks Resources
 
-*   [Knowledge base](databricks.gitbooks.io/databricks-spark-knowledge-base/)
+*   [Spark Knowledge base](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/)
+*   [Spark-reference-applications](https://databricks.gitbooks.io/databricks-spark-reference-applications/content/)
 
 ##Books
 
