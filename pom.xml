@@ -24,6 +24,12 @@
             <artifactId>spark-sql_${scala.version}</artifactId>
             <version>${spark.version}</version>
         </dependency>
+        <!-- Spark MLLIB -->
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-mllib_2.10</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
 
         <!-- Spark Third Party Packages-->
         <!-- Databricks CSV Parser -->
