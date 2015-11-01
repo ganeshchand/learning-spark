@@ -10,12 +10,12 @@ import org.apache.spark.sql.SQLContext
  */
 object ReadAndSaveJson {
   def main(args: Array[String]) {
-    if(args.length < 3){
+    if (args.length < 3) {
       println("Usage: ReadAndSaveJson <master_node> <input-dir> <output-dir>")
       System.exit(-1)
     }
     val sc = new SparkContext(args(0), "Spark DataFrame Json example")
-//    import SQLContext.
+    //    import SQLContext.
     val sqlContext = new SQLContext(sc)
 
     val person = sqlContext.read.json(args(1))
@@ -27,7 +27,7 @@ object ReadAndSaveJson {
 
     sixtyPlus.collect.foreach(println)
     println(s"Saving SixtyPlus result at $args(2)/OutputOfReadAndSaveJson")
-    sixtyPlus.toJSON.saveAsTextFile(args(2)+"/OutputOfReadAndSaveJson")
+    sixtyPlus.toJSON.saveAsTextFile(args(2) + "/OutputOfReadAndSaveJson")
 
     sc.stop()
 

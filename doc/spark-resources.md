@@ -21,6 +21,8 @@ workshops: databricks.com/spark-training
 
 *   [Spark Scala API Docs](http://spark.apache.org/docs/latest/api/scala/index.html#package)
 
+##Spark Packages - http://spark-packages.org/
+
 ##Databricks Resources
 
 *   [Knowledge base](databricks.gitbooks.io/databricks-spark-knowledge-base/)
@@ -46,6 +48,7 @@ workshops: databricks.com/spark-training
 ##Blogs
 
 *   [How To Translate from MapReduce to Apache Spark](http://blog.cloudera.com/blog/2014/09/how-to-translate-from-mapreduce-to-apache-spark/)
+*   [Fold in Spark](http://blog.madhukaraphatak.com/spark-rdd-fold/)
 
 
 
@@ -60,6 +63,9 @@ workshops: databricks.com/spark-training
  *  [Scala Tutorials](http://www.tutorialspoint.com/scala/scala_arrays.htm)
 
 ##Maven Coordinates: http://mvnrepository.com/artifact/org.apache.spark
+
+##Tips and StackOverFlow help
+*   [Calculate the averages for each KEY in a Pairwise (K,V) RDD](http://stackoverflow.com/questions/29930110/how-to-more-efficiently-calculate-the-averages-for-each-key-in-a-pairwise-k-v)
  
 
 
