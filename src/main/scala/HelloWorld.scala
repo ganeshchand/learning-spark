@@ -16,6 +16,7 @@ object HelloWorld {
     val rdd = sc.parallelize(string)
 
     println(rdd.collect.mkString(""))
+    sc.stop()
 
   }
 }
